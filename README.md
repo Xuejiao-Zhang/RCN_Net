@@ -23,6 +23,7 @@
 | [1]2022 | Conell dataset | 480x640 | 99.09 | 98.64 | 66.7
 | [7]2024 | Conell dataset | 480x640 | 98.9  |       |
 |  ours   | Conell dataset | 480x640 | 99.99 | 99.06 | 88
+
 Img means to evaluate the ability of the network to recognize objects in different positions and directions in the image, and Obj is to evaluate the ability of the network to recognize different objects in the image.
 ## Environment
     - torch==1.10.0+cu111
